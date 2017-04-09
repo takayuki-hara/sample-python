@@ -1,0 +1,5 @@
+2017-04-08 13:13:25.853 [Info] > Salem Version: 1.0 Build: 1 PID: 5262
+2017-04-08 13:13:25.853 [Info] > XCGLogger Version: 4.0.0 - Level: Debug
+2017-04-08 13:13:25.865 [Info] [main] [LocalNotificationManager.swift:18] initializeLocalNotifcation() > initializeLocalNotifcation
+2017-04-08 13:13:25.936 [Debug] [main] [AppDelegate.swift:52] application(_:didFinishLaunchingWithOptions:)
+2017-04-08 13:13:31.460 [Info] [main] [LocationManager.swift:50] locationManager(_:didUpdateLocations:)
