@@ -15,10 +15,10 @@ Pythonのサンプルコード置き場。
 
 root/  
 ├ src/  
-│ ├ <category>/  
-│ │ │ <function>/  
-│ │ │ └ <file>  
-│ │ ：  
+│  ├ (category)/  
+│  │  │ (function)/  
+│  │  │  └ (file)  
+│  │  ：  
 └ README.md
 
 ## 実行環境
