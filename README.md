@@ -13,12 +13,12 @@ Pythonのサンプルコード置き場。
 
 リポジトリの構成は概ね下記のような構成とします。
 
-root/
-├ src/
-│ ├ <category>/
-│ │ │ <function>/
-│ │ │ └ <file>
-│ │ ：
+root/  
+├ src/  
+│ ├ <category>/  
+│ │ │ <function>/  
+│ │ │ └ <file>  
+│ │ ：  
 └ README.md
 
 ## 実行環境
